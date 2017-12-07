@@ -1,13 +1,11 @@
 
 TITLE: 
-Neos - Fully Responsive Free HTML5 template
-
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+DESIGNED & DEVELOPED by CS-MJU
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Website: http://MJUZoo.com
+Twitter: http://twitter.com/MJUZoo
+Facebook: http://facebook.com/MJUZoo
 
 
 CREDITS:
